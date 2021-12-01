@@ -1,2 +1,2 @@
 # Paper-Reading-Group
-📌Paper Implementations/Notes/tutorials on latest deep learning software tools
+�📍The primary aim of this group is to inculcate the habit of reading research literature/analysing, and reviewing.
